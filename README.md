@@ -48,19 +48,17 @@ Practicing HTTP request analysis, authentication testing, input validation testi
 
 💼 **Freelance:** WordPress Security & Website Security Services
 📧 **Email:** shidulislam4943@gmail.com
+-----
 
----
 
-### ⚡ Security Stack
-
-`Kali Linux` `Burp Suite` `Nmap` `Nuclei` `WPScan` `Python` `WordPress`
-
-> **Always learning. Always testing. Always improving. 🔐**
+> **Always learning and always testing. Always improving. 🔐**
 
 
 ### 🛠️ Tools & Security Stack
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-121011?style=for-the-badge&logo=nuclei&logoColor=white)
+![WPScan](https://img.shields.io/badge/WPScan-003545?style=for-the-badge&logo=wpscan&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
