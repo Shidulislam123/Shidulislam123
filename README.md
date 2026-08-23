@@ -26,5 +26,7 @@ I specialize in **Penetration Testing**, **Web Application Security**, and **Wor
 ---
 
 ### 📊 GitHub Stats
-![Shidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shidulislam123&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shidulislam123&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shidulislam123&show_icons=true&theme=tokyonight" alt="Shidul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shidulislam123&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
