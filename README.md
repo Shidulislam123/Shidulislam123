@@ -44,10 +44,11 @@ Practicing HTTP request analysis, authentication testing, input validation testi
 * 💻 Develop stronger Linux and networking skills
 * 🚀 Build a career in Cybersecurity
 
-## 🤝 Connect With Me
 
-💼 **Freelance:** WordPress Security & Website Security Services
-📧 **Email:** `shidulislam4943@gmail.com`
+
+### 🌐 Connect with Me
+- 💼 **Fiverr / Freelance Services:** Available for WordPress Security & Malware Removal.
+- ✉️ **Email:** shidulislam4943@gmail.com
 
 
 ---
