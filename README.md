@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Shidul Islam 👋
 
-<!--
-**Shidulislam123/Shidulislam123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **Cybersecurity Learner & Web Security Enthusiast**
 
-Here are some ideas to get you started:
+I specialize in **Penetration Testing**, **Web Application Security**, and **WordPress Security & Hardening**. I help businesses secure their websites and fix vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+- 🔍 **Web App Security & Pentesting:** Exploring vulnerabilities (OWASP Top 10) and site security.
+- 🧹 **Malware Removal & Cleanup:** Clearing backdoors, malicious scripts, and database infections.
+- 🔒 **WordPress Security Hardening:** Implementing robust protection against unauthorized access & attacks.
+
+---
+
+### 🛠️ Tools & Technologies
+- **Security Tools:** Kali Linux, Burp Suite, Nmap, Subfinder, ffuf, Wordfence
+- **Web Technologies:** WordPress, PHP, HTML5, CSS3, JavaScript, MySQL/phpMyAdmin
+
+---
+
+### 🌐 Connect with Me
+- 💼 **Fiverr / Freelance Services:** Available for WordPress Security & Malware Removal.
+- ✉️ **Email:** shidulislam4943@gmail.com
+
+---
+
+### 📊 GitHub Stats
+![Shidul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shidulislam123&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shidulislam123&layout=compact&theme=radial)
