@@ -47,11 +47,15 @@ Practicing HTTP request analysis, authentication testing, input validation testi
 ## 🤝 Connect With Me
 
 💼 **Freelance:** WordPress Security & Website Security Services
-📧 **Email:** shidulislam4943@gmail.com
------
+📧 **Email:** shidulislam4943@gmail.com)
+
+---
+
+----
 
 
-> **Always learning and always testing. Always improving. 🔐**
+> **Always learning. Always testing. Always improving. 🔐**
+
 
 
 ### 🛠️ Tools & Security Stack
