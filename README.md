@@ -1,29 +1,62 @@
-# Hi there, I'm Shidul Islam 👋
+# 👋 Hi there, I'm Shidul Islam
 
-🛡️ **Cybersecurity Learner & Web Security Enthusiast**
+🛡️ **Cybersecurity Learner | Web Security Enthusiast**
 
-I specialize in **Penetration Testing**, **Web Application Security**, and **WordPress Security & Hardening**. I help businesses secure their websites and fix vulnerabilities.
+I’m passionate about **Cybersecurity, Web Application Security, Penetration Testing, and WordPress Security**. I’m continuously building my practical skills through hands-on labs, security research, and real-world security projects.
+
+## 🚀 What I’m Learning & Practicing
+
+* 🔍 Web Application Security & Penetration Testing
+* 🛡️ WordPress Security & Hardening
+* 🧪 Vulnerability Assessment & Security Testing
+* 🌐 OWASP Top 10
+* 🔎 Reconnaissance & Security Enumeration
+* 🐧 Linux & Kali Linux
+* 🔐 Malware Analysis & WordPress Security
+
+## 🛠️ Tools & Technologies
+
+**Security Tools:**
+Kali Linux • Burp Suite • Nmap • Nuclei • ffuf • Subfinder • Nikto • WPScan
+
+**Web Technologies:**
+WordPress • PHP • HTML5 • CSS3 • JavaScript • MySQL
+
+## 📂 Security Projects
+
+🔐 **Web Application Security Lab**
+Hands-on testing of common web vulnerabilities in controlled environments.
+
+🛡️ **WordPress Security Lab**
+Practicing WordPress security auditing, hardening, vulnerability identification, and malware analysis.
+
+🔎 **Reconnaissance Lab**
+Learning asset discovery, subdomain enumeration, port scanning, and service identification using security tools.
+
+🧪 **Burp Suite Security Lab**
+Practicing HTTP request analysis, authentication testing, input validation testing, and web security assessment.
+
+## 🎯 Current Goals
+
+* 📚 Improve my penetration testing skills
+* 🌐 Build real-world web security projects
+* 🐞 Learn responsible vulnerability research & bug bounty
+* 💻 Develop stronger Linux and networking skills
+* 🚀 Build a career in Cybersecurity
+
+## 🤝 Connect With Me
+
+💼 **Freelance:** WordPress Security & Website Security Services
+📧 **Email:** shidulislam4943@gmail.com
 
 ---
 
-### 🚀 What I Do
-- 🔍 **Web App Security & Pentesting:** Exploring vulnerabilities (OWASP Top 10) and site security.
-- 🧹 **Malware Removal & Cleanup:** Clearing backdoors, malicious scripts, and database infections.
-- 🔒 **WordPress Security Hardening:** Implementing robust protection against unauthorized access & attacks.
+### ⚡ Security Stack
 
----
+`Kali Linux` `Burp Suite` `Nmap` `Nuclei` `WPScan` `Python` `WordPress`
 
-### 🛠️ Tools & Technologies
-- **Security Tools:** Kali Linux, Burp Suite, Nmap, Subfinder, ffuf, Wordfence
-- **Web Technologies:** WordPress, PHP, HTML5, CSS3, JavaScript, MySQL/phpMyAdmin
+> **Always learning. Always testing. Always improving. 🔐**
 
----
-
-### 🌐 Connect with Me
-- 💼 **Fiverr / Freelance Services:** Available for WordPress Security & Malware Removal.
-- ✉️ **Email:** shidulislam4943@gmail.com
-
----
 
 ### 🛠️ Tools & Security Stack
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
